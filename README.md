@@ -67,3 +67,6 @@ CSV Dataset → MySQL → SQL Analysis → Views → CSV Export → R Visualizat
 - Sales trend shows seasonal variation
 - Top customers contribute significant revenue share
 
+## Dashboard Preview
+<img width="1433" height="795" alt="image" src="https://github.com/user-attachments/assets/b325cbcb-1a87-4fb1-b0b5-8bfd4de3bcf9" />
+
