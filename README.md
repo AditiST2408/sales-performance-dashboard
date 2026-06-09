@@ -60,3 +60,10 @@ CSV Dataset → MySQL → SQL Analysis → Views → CSV Export → R Visualizat
 * 
 * !\[Top Customers](charts/top\_customers.png)
 
+* ## Key Business Insights
+
+- Furniture is the top-performing category
+- West region shows highest sales contribution
+- Sales trend shows seasonal variation
+- Top customers contribute significant revenue share
+
